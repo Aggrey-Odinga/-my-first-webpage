@@ -1,0 +1,11 @@
+h1{
+    color: blue;
+
+}
+body{
+    background-color: rgb(245, 228, 228);
+    font-size: large;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1em;
+}
